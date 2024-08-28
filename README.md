@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Goulustis
 - 👀 I’m interested in neural 3d representation
-- 📫 How to reach me: direct email
+- 📫 Email: weiztang@student.ubc.cs  
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Goulustis)](https://git.io/streak-stats)
