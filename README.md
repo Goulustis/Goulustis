@@ -3,7 +3,7 @@
 - 📫 Email: weiztang@student.ubc.cs  
 - website: [goulustis.github.io](goulustis.github.io)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Goulustis)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <!---
 Goulustis/Goulustis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
